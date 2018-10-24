@@ -1,0 +1,50 @@
+body {
+    background-color: #fff;
+    width: 100%;
+    font-family: 'Ubuntu',
+        sans-serif;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+header {
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #405F85;
+    border: 2px solid #26466C;
+    color: #ffffff;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    justify-content: flex-end;
+}
+
+li.brand-logo {
+    flex-grow: 3;
+}
+
+.nav-list-item {
+    margin: 0 10px;
+}
+
+section {
+    width: 80%;
+    margin: 40px auto;
+}
+
+.cards {
+    margin: 30px auto;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.cards li {
+    border: 1px solid black;
+    padding: 20px;
+}
