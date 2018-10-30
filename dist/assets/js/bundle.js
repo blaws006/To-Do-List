@@ -105,7 +105,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _tes
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log('Imported Model');\r\n\r\n\n\n//# sourceURL=webpack:///./src/js/test.js?");
+eval("console.log('Imported Model More');\r\n\r\n\n\n//# sourceURL=webpack:///./src/js/test.js?");
 
 /***/ })
 
